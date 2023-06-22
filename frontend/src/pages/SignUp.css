@@ -1,0 +1,60 @@
+.SignUp-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f2f2f2;
+  }
+  
+  .SignUp-header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .SignUp-title {
+    color: #40513b;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .SignUp-subtitle {
+    color: #999999;
+    font-size: 16px;
+  }
+  
+  .SignUp-form {
+    width: 450px;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .SignUp-form .ant-form-item {
+    margin-bottom: 15px;
+  }
+  
+  .SignUp-button {
+    height: 45px;
+    border: none;
+    background-color: #40513b;
+    color: #ffffff;
+  }
+  
+  .SignUp-button:hover {
+    background-color: #344932;
+  }
+  
+  .SignUp-footer {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .SignUp-footer-text {
+    color: #999999;
+  }
+  
+  .SignUp-footer-link {
+    color: #40513b;
+  }
+  
